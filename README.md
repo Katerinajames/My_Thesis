@@ -27,3 +27,6 @@ constants.rb
 
 This program shows how a constant works with the reverse! method. Note that it is generally not advisable to change the value of a constant.
 
+local_variables.rb
+
+This program demonstrates how a local variable works through a simple addition 
