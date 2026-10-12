@@ -21,3 +21,9 @@ capitalize.rb
 This program displays the function of the method capitalize.For further information you can visit the following URL:
 
 https://www.geeksforgeeks.org/ruby/ruby-string-capitalize-method/
+
+
+constants.rb  
+
+This program shows how a constant works with the reverse! method. Note that it is generally not advisable to change the value of a constant.
+
