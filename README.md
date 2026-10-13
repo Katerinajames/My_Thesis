@@ -37,4 +37,11 @@ This program is a demonstration of parallel assignment.
 
 interpolation.rb  
 
-This program demonstrates the interpolation technique 
+This program demonstrates the interpolation technique  
+
+arithmetic_operator.rb
+
+This program is a demonsrtation  of the function of an arithmetic operator. 
+
+
+
