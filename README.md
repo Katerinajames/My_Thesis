@@ -34,3 +34,7 @@ This program demonstrates how a local variable works through a simple addition
 parallel_assignment.rb 
 
 This program is a demonstration of parallel assignment.
+
+interpolation.rb  
+
+This program demonstrates the interpolation technique 
