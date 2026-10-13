@@ -48,3 +48,8 @@ dividend_divisor.rb
 This program displays the division of two integers 
 
 
+bytes.rb
+ 
+This program calculates the size of a string in bytes 
+
+
