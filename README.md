@@ -43,5 +43,8 @@ arithmetic_operator.rb
 
 This program is a demonsrtation  of the function of an arithmetic operator. 
 
+dividend_divisor.rb
+
+This program displays the division of two integers 
 
 
