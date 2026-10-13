@@ -30,3 +30,7 @@ This program shows how a constant works with the reverse! method. Note that it i
 local_variables.rb
 
 This program demonstrates how a local variable works through a simple addition 
+
+parallel_assignment.rb 
+
+This program is a demonstration of parallel assignment.
