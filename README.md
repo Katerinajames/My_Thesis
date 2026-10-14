@@ -45,15 +45,17 @@ This program is a demonsrtation  of the function of an arithmetic operator.
 
 dividend_divisor.rb
 
-This program displays the division of two integers 
+This program displays the division of two integers. 
 
 
 bytes.rb
  
-This program calculates the size of a string in bytes 
+This program calculates the size of a string in bytes. 
 
 chοp.rb  
-This program demonstrates how to delete the last character  from a string 
+This program demonstrates how to delete the last character  from a string. 
 
-
+chr.rb
+This program shows how to display the first character of a string.
+  
 
