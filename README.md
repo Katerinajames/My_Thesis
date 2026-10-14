@@ -52,4 +52,8 @@ bytes.rb
  
 This program calculates the size of a string in bytes 
 
+chοp.rb  
+This program demonstrates how to delete the last character  from a string 
+
+
 
