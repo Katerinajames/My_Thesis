@@ -58,4 +58,7 @@ This program demonstrates how to delete the last character  from a string.
 chr.rb
 This program shows how to display the first character of a string.
   
+count.rb 
+This program counts how many times a character appears in a string. 
+
 
