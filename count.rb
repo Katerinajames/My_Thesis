@@ -1,0 +1,3 @@
+
+puts "Heeeelllllo".count("l")
+
