@@ -66,7 +66,9 @@ This program counts how many times a character appears in a string.
 downcase.rb  
 This program demonstrates how to convert the first letter of a string to lowercase using the downcase method and to uppercase using the upcase method.
 
+empty.rb
 
+This program shows whether a string is empty (i.e., contains no characters).
 
 
 
