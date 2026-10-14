@@ -61,6 +61,12 @@ This program shows how to display the first character of a string.
   
 count.rb 
 
-This program counts how many times a character appears in a string. 
+This program counts how many times a character appears in a string.  
+
+downcase.rb  
+This program demonstrates how to convert the first letter of a string to lowercase using the downcase method and to uppercase using the upcase method.
+
+
+
 
 
