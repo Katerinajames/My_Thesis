@@ -70,5 +70,9 @@ empty.rb
 
 This program shows whether a string is empty (i.e., contains no characters).
 
+encoding.rb 
+
+This program displays the use of method encoding 
+
 
 
