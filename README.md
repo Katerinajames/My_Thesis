@@ -1,101 +1,103 @@
+
 # My_Thesis
 
-first.rb
+This repository contains simple Ruby programs that demonstrate fundamental concepts of the Ruby programming language, including variables, constants, string methods, operators, and basic file handling.
 
-This program prints "Welcome to the Ruby programming language"  to   the screen. 
+These examples were created as part of my thesis.
 
+---
 
-variable_print.rb
+## Basic Concepts & Variables
 
-This program displays  the value of  variable x 
+**first.rb**  
+Prints the message "Welcome to the Ruby programming language" to the screen.
 
+**variable_print.rb**  
+Displays the value of the variable `x`.
 
-variable_a_b.rb
+**variable_a_b.rb**  
+Displays the values of the variables `a` and `b`.
 
-This program displays the values of variables a and b
+**local_variables.rb**  
+Demonstrates how a local variable works through a simple addition.
 
+**global_variables.rb**  
+Demonstrates the use of a global variable (`$x`) by initializing it twice and printing its value each time.
 
-capitalize.rb
+**parallel_assignment.rb**  
+Demonstrates parallel assignment in Ruby.
 
+**interpolation.rb**  
+Demonstrates string interpolation.
 
-This program displays the function of the method capitalize.For further information you can visit the following URL:
+**constants.rb**  
+Shows how a constant works with the `reverse!` method.  
+**Note:** It is generally not advisable to change the value of a constant.
 
-https://www.geeksforgeeks.org/ruby/ruby-string-capitalize-method/
+**arithmetic_operator.rb**  
+Demonstrates the use of an arithmetic operator.
 
+**dividend_divisor.rb**  
+Performs and displays the division of two integers.
 
-constants.rb  
+---
 
-This program shows how a constant works with the reverse! method. Note that it is generally not advisable to change the value of a constant.
+## String Methods
 
-local_variables.rb
+**capitalize.rb**  
+Demonstrates the `capitalize` method.  
+For more information: [Ruby String capitalize method](https://www.geeksforgeeks.org/ruby/ruby-string-capitalize-method/)
 
-This program demonstrates how a local variable works through a simple addition 
+**downcase.rb**  
+Demonstrates converting a string to lowercase with `downcase` and to uppercase with `upcase`.
 
-parallel_assignment.rb 
+**bytes.rb**  
+Calculates and displays the size of a string in bytes.
 
-This program is a demonstration of parallel assignment.
+**chοp.rb**  
+Demonstrates how to remove the last character from a string using the `chop` method.  
+*(Note: The filename contains a Greek omicron instead of a Latin "o")*
 
-interpolation.rb  
+**chr.rb**  
+Displays the first character of a string using the `chr` method.
 
-This program demonstrates the interpolation technique  
+**count.rb**  
+Counts how many times a specific character appears in a string.
 
-arithmetic_operator.rb
+**delete.rb**  
+Demonstrates the `delete` method by removing specific characters from a string.
 
-This program is a demonsrtation  of the function of an arithmetic operator. 
+**empty.rb**  
+Checks whether a string is empty (contains no characters).
 
-dividend_divisor.rb
+**encoding.rb**  
+Demonstrates the use of the `encoding` method.
 
-This program displays the division of two integers. 
+**include.rb**  
+Demonstrates the use of the `include?` method.
 
+**next.rb**  
+Demonstrates the use of the `next` method.
 
-bytes.rb
- 
-This program calculates the size of a string in bytes. 
+**reverse.rb**  
+Demonstrates the use of the `reverse` method.
 
-chοp.rb  
-This program demonstrates how to delete the last character  from a string. 
+---
 
-chr.rb
+## File Handling
 
-This program shows how to display the first character of a string.
-  
-count.rb 
+**file_creation.rb**  
+Demonstrates how to create a file.
 
-This program counts how many times a character appears in a string.  
+**file_new_and_write.rb**  
+Creates a new file (`text.txt`) using `File.new`, writes content to it, and then closes the file.
 
-downcase.rb  
-This program demonstrates how to convert the first letter of a string to lowercase using the downcase method and to uppercase using the upcase method.
+**file_new_and_write2.rb**  
+Creates a new file (`text2.txt`) using `File.open` with a block and writes content to it.
 
-empty.rb
+---
 
-This program shows whether a string is empty (i.e., contains no characters).
+## Thesis Document
 
-encoding.rb 
-
-This program demonstrates the use of  the  encoding method
-
-include.rb
-
-This program displays the use of  the include  method
-
-next.rb
-
-This program displays the use of  the next  method
-
-reverse.rb
-
-This program displays the use of  the reverse  method
-
-
------------------------------------------------------------------------------------------- 
-
-                         FILES 
-file_creation.rb 
-
-This program demonstrates how to create a file 
-
-
-
-
-
-
+**πτυχιακή_Κατερινα-1.pdf**  
+The full thesis document (PDF).
