@@ -95,7 +95,7 @@ Creates a new file (`text.txt`) using `File.new`, writes content to it, and then
 **file_new_and_write2.rb**  
 Creates a new file (`text2.txt`) using `File.open` with a block and writes content to it.
 
----
+**read_file.rb , read_file2.rb ** 
 
 ## Thesis Document
 
