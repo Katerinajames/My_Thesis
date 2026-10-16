@@ -1,6 +1,6 @@
 
 # My_Thesis
-
+Demonstrates how to examine if the file ends in order to write a text.
 This repository contains simple Ruby programs that demonstrate fundamental concepts of the Ruby programming language, including variables, constants, string methods, operators, and basic file handling.
 
 These examples were created as part of my thesis.
@@ -101,7 +101,11 @@ Demonstrates how to read a file
 
 **read_file2.rb**
 
-Demonstrates a second  way to read a file 
+Demonstrates a second  way to read a file
+
+**end_of_file.rb**
+
+Demonstrates how to examine if the file ends in order to write a text.
 
 ## Thesis Document
 
