@@ -107,6 +107,13 @@ Demonstrates a second  way to read a file
 
 Demonstrates how to examine if the file ends in order to write a text.
 
+**count_file_lines.rb**
+Demonstrates how to count the lines of a file 
+
+**count_file_lines2.rb**
+Demonstrates a second way to count the lines of a file 
+
+
 ## Thesis Document
 
 **πτυχιακή_Κατερινα-1.pdf**  
